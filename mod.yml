@@ -3,11 +3,11 @@ originalAuthor: Zack "The Puppy" Fair
 description: Generated on Thu, 12 Jun 2025 14:23:21 GMT
 dependencies: 
 assets:
-- name: kh2/field2d/us/zz0command.2dd
+- name: field2d\us\zz0command.2dd
   method: copy
   source:
-  - name: kh2/field2d/us/zz0command.2dd
-- name: kh2/remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+  - name: field2d\us\zz0command.2dd
+- name: remastered\field2d\us\zz0command.2dd\-0.png
   method: copy
   source:
-  - name: kh2/remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+  - name: remastered\field2d\us\zz0command.2dd\-0.png
